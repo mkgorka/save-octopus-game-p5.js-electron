@@ -1,0 +1,17 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "game.js",
+  "dependencies": {
+    "electron-packager": "^12.1.0"
+  },
+  "devDependencies": {
+    "electron": "^2.0.4"
+  },
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "MG",
+  "license": "ISC"
+}
